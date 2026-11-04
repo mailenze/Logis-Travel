@@ -1,0 +1,20 @@
+{
+    "orderId": 123456,
+    "Address": "25 de mayo lanteri",
+    "status": "ready",
+    "articles": [
+        {
+            "name": "Frutas",
+            "price": 2000,
+            "Quantity": 5,
+            "Dangerous": false
+        },
+        {
+            "name": "VERDURAS",
+            "price": 1000,
+            "Quantity": 3,
+            "Dangerous": true
+
+        }
+    ]
+}
